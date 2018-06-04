@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\bin\Debug\SkillTrackerBusiness.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\bin\Debug\SkillTrackerBusiness.pdb
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\obj\Debug\SkillTrackerBusiness.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\obj\Debug\SkillTrackerBusiness.pdb
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\bin\Debug\SkillTrackerDataAccess.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\bin\Debug\SkillTrackerEntities.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\bin\Debug\SkillTrackerDataAccess.pdb
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\bin\Debug\SkillTrackerDataAccess.dll.config
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\bin\Debug\SkillTrackerEntities.pdb
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerBusiness\obj\Debug\SkillTrackerBusiness.csprojResolveAssemblyReference.cache

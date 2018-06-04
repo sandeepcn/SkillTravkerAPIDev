@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\bin\Debug\SkillTrackerDataAccess.dll.config
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\bin\Debug\SkillTrackerDataAccess.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\bin\Debug\SkillTrackerDataAccess.pdb
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\obj\Debug\SkillTrackerDataAccess.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\obj\Debug\SkillTrackerDataAccess.pdb
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerDataAccess\obj\Debug\SkillTrackerDataAccess.csprojResolveAssemblyReference.cache
