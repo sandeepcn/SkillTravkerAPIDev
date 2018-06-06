@@ -44,6 +44,11 @@ namespace SkillTrackerTest
             string message = sRes.status.Message;
             Assert.AreEqual("Skill added successfully", message);
             Assert.IsNotNull(sCtrl.GetAllSkils());
+            sm = sCtrl.GetSkillByName(sRes.skillModel);
+            Assert.IsNotNull(sm);
+            Status stat = sCtrl.DeleteSkill(sm);
+            message = stat.Message;
+            Assert.AreEqual("Skill deleted successfully", message);
 
         }
         

@@ -27,7 +27,7 @@ namespace SkillTrackerBusiness
             SkillsDataAccess repo = new SkillsDataAccess();
             oSkill.Skill_ID = objSkill.Skill_ID;
             oSkill.Skill_Name = objSkill.Skill_Name;
-            
+
             oSkill.AssociateSkills = null;
 
             if (oSkill.Skill_ID == 0)
@@ -62,6 +62,21 @@ namespace SkillTrackerBusiness
                 Skill_ID = objSkill.Skill_ID
             });
             return new Status() { Message = "Skill deleted successfully", Result = true };
+        }
+        public SkillModel GetSkillBySkillDetail(SkillModel objSkill)
+        {
+            SkillsDataAccess repo = new SkillsDataAccess();
+            Skill sk = new Skill
+            {
+                Skill_Name = objSkill.Skill_Name,
+                Skill_ID = objSkill.Skill_ID
+            };
+            var res = repo.GetSkillBySkillDetail(sk);
+            return new SkillModel
+            {
+                Skill_Name = sk.Skill_Name,
+                Skill_ID = sk.Skill_ID
+            };
         }
     }
 }

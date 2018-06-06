@@ -29,9 +29,16 @@ namespace SkillTrackerWebAPI.Controllers
 
         [HttpPost]
         [Route("api/deleteSkill")]
-        public Status DeleteUser(SkillModel oSkill)
+        public Status DeleteSkill(SkillModel oSkill)
         {
             return oBusines.DeleteSkill(oSkill);
         }
+        [HttpPost]
+        [Route("api/GetSkillById")]
+        public SkillModel GetSkillByName(SkillModel oSkill)
+        {
+            return oBusines.GetSkillBySkillDetail(oSkill);
+        }
+
     }
 }

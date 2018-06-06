@@ -45,5 +45,12 @@ namespace SkillTrackerDataAccess
                 return true;
             }
         }
+        public Skill GetSkillBySkillDetail(Skill oSkill)
+        {
+            using (var context = new SkillTrackerContext())
+            {
+                return context.Skills.Where(s => s.Skill_Name == oSkill.Skill_Name).FirstOrDefault();
+            }
+        }
     }
 }
