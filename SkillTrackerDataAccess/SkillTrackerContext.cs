@@ -46,19 +46,18 @@ namespace SkillTrackerDataAccess
                 .Property(e => e.Weakness)
                 .IsUnicode(false);
 
-            modelBuilder.Entity<Skill>()
-                .Property(e => e.Skill_Name)
+            modelBuilder.Entity<Associate>()
+                .Property(e => e.Other)
                 .IsUnicode(false);
 
             modelBuilder.Entity<Associate>()
-               .HasMany(e => e.AssociateSkills)
-               .WithRequired(e => e.Associate)
-               .WillCascadeOnDelete(false);
+                .HasMany(e => e.AssociateSkills)
+                .WithOptional(e => e.Associate)
+                .HasForeignKey(e => e.Associate_ID);
 
             modelBuilder.Entity<Skill>()
-                .HasMany(e => e.AssociateSkills)
-                .WithRequired(e => e.Skill)
-                .WillCascadeOnDelete(false);
+                .Property(e => e.Skill_Name)
+                .IsUnicode(false);
         }
     }
 }

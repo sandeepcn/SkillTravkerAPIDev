@@ -82,3 +82,6 @@ C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerWebAPI\bin\En
 C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerWebAPI\bin\SkillTrackerDataAccess.pdb
 C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerWebAPI\bin\SkillTrackerDataAccess.dll.config
 C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerWebAPI\obj\Debug\SkillTrackerWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerWebAPI\bin\System.Web.Cors.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerWebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerWebAPI\bin\System.Web.Http.Cors.xml

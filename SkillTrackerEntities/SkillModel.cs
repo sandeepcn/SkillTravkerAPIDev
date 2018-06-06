@@ -12,6 +12,6 @@ namespace SkillTrackerEntities
 
         public string Skill_Name { get; set; }
 
-        public virtual ICollection<AssociateSkill> AssociateSkills { get; set; }
+        //public virtual ICollection<AssociateSkill> AssociateSkills { get; set; }
     }
 }

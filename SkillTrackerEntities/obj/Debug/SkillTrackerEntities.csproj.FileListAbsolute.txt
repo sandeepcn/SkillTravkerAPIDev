@@ -1,5 +1,5 @@
 C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerEntities\bin\Debug\SkillTrackerEntities.dll
 C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerEntities\bin\Debug\SkillTrackerEntities.pdb
-C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerEntities\obj\Debug\SkillTrackerEntities.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerEntities\obj\Debug\SkillTrackerEntities.dll
 C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerEntities\obj\Debug\SkillTrackerEntities.pdb
+C:\Users\Admin\Desktop\SKILLTRACKER\SkillTrackerWebAPI\SkillTrackerEntities\obj\Debug\SkillTrackerEntities.csprojResolveAssemblyReference.cache

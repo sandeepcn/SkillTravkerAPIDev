@@ -13,7 +13,6 @@ namespace SkillTrackerWebAPI.Controllers
     {
         AssociateBusiness oBusines = new AssociateBusiness();
 
-
         [HttpGet]
         [Route("api/getAllAssociates")]
         public IEnumerable<AssociateModel> Get()

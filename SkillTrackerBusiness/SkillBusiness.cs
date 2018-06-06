@@ -17,7 +17,7 @@ namespace SkillTrackerBusiness
             {
                 Skill_ID = x.Skill_ID,
                 Skill_Name = x.Skill_Name,
-                AssociateSkills = null
+                //AssociateSkills = null
             }).ToList();
         }
         public Skillresult UpdateSkill(SkillModel objSkill)
@@ -49,7 +49,7 @@ namespace SkillTrackerBusiness
                 {
                     Skill_ID = oSkill.Skill_ID,
                     Skill_Name = oSkill.Skill_Name,
-                    AssociateSkills = null
+                    //AssociateSkills = null
                 }
             };
 

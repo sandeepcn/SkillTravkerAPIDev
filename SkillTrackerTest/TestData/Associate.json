@@ -1,0 +1,22 @@
+﻿{
+  "Associate_ID": 1234,
+  "Name": "sasi",
+  "Email": "sasi@gmail.com",
+  "Mobile": "987654321",
+  "Pic": "",
+  "Gender": 1,
+  "Status_Green": 1,
+  "Status_Blue": 0,
+  "Status_Red": 0,
+  "Level_1": 1,
+  "Level_2": 0,
+  "Level_3": 0,
+  "Remark": "bad",
+  "Strength": "weak",
+  "Weakness": "strong",
+  "AssociateSkill": {
+    "Associate_ID": 1234,
+    "Skill_ID": 1,
+    "SkillRating": 10
+  }
+}

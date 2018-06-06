@@ -14,7 +14,7 @@ namespace SkillTrackerWebAPI.Controllers
         SkillBusiness oBusines = new SkillBusiness();
         [HttpGet]
         [Route("api/getAllSkills")]
-        public IEnumerable<SkillModel> Get()
+        public IEnumerable<SkillModel> GetAllSkils()
         {
             return oBusines.GetAllSkils();
         }
